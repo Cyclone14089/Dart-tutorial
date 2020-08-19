@@ -3,6 +3,8 @@ A starter's guide for anyone who in interested in learning dart
 
 ____________________________________________________________________________________________________________________________________________
 
+Files and contents  :-
+
 test.dart -> start your journey here
 
 collections.dart -> inbuilt data structures and their usage in dart
