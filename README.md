@@ -1,6 +1,7 @@
 # Dart-tutorial
-a starter's guide for anyone who in interested in learning dart
+A starter's guide for anyone who in interested in learning dart
 
+____________________________________________________________________________________________________________________________________________
 
 test.dart -> start your journey here
 
@@ -12,6 +13,6 @@ getset.dart -> Getters and Setters in dart
 
 exceptions.dart -> Exception handling in dart
 
-
+_____________________________________________________________________________________________________________________________________________
 
 Hope this helps, enjoy learning dart !
