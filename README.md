@@ -5,9 +5,9 @@ ________________________________________________________________________________
 
 Files and contents  :-
 
-test.dart -> start your journey here
+test.dart -> Start your journey here
 
-collections.dart -> inbuilt data structures and their usage in dart
+collections.dart -> Inbuilt data structures and their usage in dart
 
 classes.dart -> Classes and Objects in dart and their properties
 
